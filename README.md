@@ -13,6 +13,7 @@ A modern Flutter app for ordering delicious burgers and extras, built with clean
 - **Total Calculation**: Real-time display of total value with discount
 
 ### 🎯 Technical Features
+- **Discount**: 20%, 15% and 10% off burger options and extras
 - **State Management**: MobX for reactive state management
 - **Clean Architecture**: Organized into domain, data, and presentation layers
 - **Local Storage**: Cart persistence using sqLite
